@@ -7,7 +7,7 @@ This project contains:
 * Examining different learning algorithms, and choosing the best
 * Examining various classification algorithms, and choosing the best one
 
-## main packages used:
+## other packages used:
 contain packages from python:
 * sklearn
 * pandas
@@ -28,7 +28,9 @@ contain packages from python:
 
 ## Getting Started
 
-There are several options to run the project:
+before u run the project must run 'pip install' for all packages above ('other packages used' title).  
+
+after that, there are two options to run the project:
 * **Run python iteration.py without additional parameters:**   
 will cause selection of 20 different random games, finding the optimal lineup for the first team, and emitting different graphs
 * **Run python iteration.py with two parameters (2 names of team from Premier League):**   
