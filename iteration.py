@@ -3,8 +3,7 @@ import sys
 from utils.utils_search import *
 from utils.graphs import *
 
-# TODO: should change
-NUM_OF_ITER = 1
+NUM_OF_ITER = 13
 USE_ADVANCED_LOCAL_SEARCH_ITER = 1
 MAX_SEARCH_STEPS_ITER = 5
 
